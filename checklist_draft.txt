@@ -1,0 +1,12 @@
+######### flow Checklist:
+
+1- start with a fixed amount variable amount_balance
+
+2- display a menu of (1-4) options and input for user to choose option
+
+3- trigger action based on user input (1-4), using loop and condionals
+
+3.1- print account balance
+3.2- add deposit after validating deposit input
+3.3- subtract withdrawal after validating withdrawal input
+3.4- exit menu 
